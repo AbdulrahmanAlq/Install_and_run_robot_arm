@@ -8,6 +8,9 @@ $sudo apt install git
 
 $git clone https://github.com/smart-methods/arduino_robot_arm
 
+
+
+
 2-Add the Dependencies
 
 $cd ~/catkin_ws
@@ -46,7 +49,9 @@ $ sudo apt-get install ros-noetic-gazebo-ros-control joint-state-publisher
 
 $ sudo apt-get install ros-noetic-ros-controllers ros-noetic-ros-control
 
-2- To control the robot arm 
+
+
+3- To control the robot arm 
 
 by joint_state_publisher
 
